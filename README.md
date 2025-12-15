@@ -28,7 +28,7 @@
 
 <div>
   <a href="https://github.com/guustavo-m">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guustavo-m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guustavo-m&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula"/> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guustavo-m&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
