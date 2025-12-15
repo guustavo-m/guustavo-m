@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+sou+o+Gustavo+Millamonte" alt="Introdução animada"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+sou+o+Gustavo+Millamonte" alt="Introdução animada"/>
 </p>
 
 ---
 
-### 🧠 Tecnologias que utilizo
+<h1 align="center">🧠 Tecnologias que utilizo</h1>
 
-<div>
+<div align="center">
   <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg">
   <img alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -24,9 +24,9 @@
 
 ---
 
-### 💡 Alguns Status
+<h1 align="center">💡 Alguns Status</h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/guustavo-m">
   <img src="https://github-readme-stats.vercel.app/api?username=guustavo-m&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula"/> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guustavo-m&layout=compact&langs_count=16&theme=dracula"/>
@@ -34,8 +34,9 @@
 
 ---
 
-### ✉️ Entre em contato
-<div> 
+<h1 align="center">✉️ Entre em contato</h1>
+
+<div align="center"> 
   <a href="https://www.youtube.com/@gusplayyt218" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/o_gutiii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://github.com/guustavo-m" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
