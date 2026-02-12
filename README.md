@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=31&pause=900&color=2F81F7&width=550&lines=Ol%C3%A1%2C+sou+o+Gustavo+Millamonte" alt="Introdução animada"/>
 </p>
-
 ---
 
 <h1 align="center">🧠 Tecnologias que utilizo</h1>
@@ -21,7 +20,6 @@
   <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   
 </div>
-
 ---
 
 <h1 align="center">💡 Alguns Status</h1>
@@ -30,6 +28,7 @@
   <a href="https://github.com/guustavo-m">
   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=guustavo-m&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula"/> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guustavo-m&layout=compact&langs_count=16&theme=dracula"/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=guustavo-m&bg_color=44475a&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 </div>
 
 ---
